@@ -10,6 +10,7 @@ go-to: rm_main
 Changing the leadership of the party is painful, but perhaps it is necessary to adapt to changing circumstances.
 
 I want to kill Hilferding with hammers
+
 - @rm_main: Remove advisors
 - @add_advisors: Add advisors
 - @remove_none: Don't change advisors.
