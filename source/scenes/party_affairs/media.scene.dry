@@ -44,7 +44,7 @@ on-arrival: left_dissent -= 6; labor_dissent -= 6; center_dissent -= 6; reformis
 This has been our media course historically, and it has successfully paved over the many tensions in our party.
 
 @radio
-title: Why not fund a radio station?
+title: Indoctrinate the DDPers into loving us?
 subtitle: -2 resources
 choose-if: resources >= 2
 unavailable-subtitle: Not enough resources.
