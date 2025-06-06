@@ -1,0 +1,21 @@
+title: Skibidi dop dop dop
+subtitle: Yes yes...
+view-if: year = 1928 and month = 2
+max-visits: 1
+tags: event
+new-page: true
+face-image: img/All_Quiet.jpg
+
+= Skibidi dop dop dop
+
+- @yes: Another 100 years for the slopreich!!
+- @no: No vro wtf is wrong with you
+
+@yes
+on-arrival: z_relation -= 10; kpd_relation -= 10; dvp_relation -= 10; ddp_relation -= 10
+
+Fuck you
+
+@no
+
+Wholesome option
