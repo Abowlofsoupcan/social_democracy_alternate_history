@@ -1,0 +1,11 @@
+title: Cringe
+subtitle: you fucked up
+view-if: year = 1928 and month = 7
+max-visits: 1
+tags: event
+new-page: true
+face-image: img/All_Quiet.jpg
+
+= Cringe
+
+Should have gotten weimar
