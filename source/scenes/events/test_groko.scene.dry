@@ -1,6 +1,6 @@
 title: Cringe
 subtitle: you fucked up
-view-if: year = 1928 and month = 7 and spd_in_government and in_grand_coalition
+view-if: year = 1928 and month = 7 and spd_in_government and in_grand_coalition = 1
 max-visits: 1
 tags: event
 new-page: true
