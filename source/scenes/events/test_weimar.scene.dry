@@ -1,0 +1,11 @@
+title: Based
+subtitle: you did well
+view-if: year = 1928 and month = 7 and spd_in_government and in_grand_coalition = 0
+max-visits: 1
+tags: event
+new-page: true
+face-image: img/All_Quiet.jpg
+
+= Based
+
+Wholsum democracymaxxing
