@@ -16,10 +16,10 @@ Unfortunately, to reject the cruiser we would need at least some of Center Party
 - @pay: let's use our resources to convince them it's a good idea
 - @pray: we can only pray enough deputies vote in favor
 
-  @pay
+@pay
 
-text 1
+Text 1
 
 @pray
 
-text 2
+Text 2
