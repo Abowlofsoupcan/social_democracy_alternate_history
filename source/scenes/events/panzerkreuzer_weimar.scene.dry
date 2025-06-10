@@ -1,0 +1,21 @@
+title: Panzerkreuzer A
+subtitle: A political question
+tags: event, govt_affairs
+is-card: true
+on-arrival: panzerkreuzer_seen = 1
+face-image: img/panzerkreuzer.jpg
+view-if: panzerkreuzer_seen = 0 and year = 1928 and month >= 8 and reichswehr_minister_party != "SPD" and spd_in_government = 1 and in_grand_coalition = 0
+new-page: true
+
+= Panzerkreuzer
+
+The Reichswehr Ministry is demanding the construction of a new battlecruiser, as part of Germany's rearmament. However, the fact that parties sceptical of remilitarization achieved a majority in the last election has emboldened the pacifist voices in both DDP and us, thus leading to DDP continuing their opposition to the cruiser's construction as well as a push from our grassroots party members to oppose the demands.
+
+Unfortunately, to reject the cruiser we would need at least some of Center Party's deputies, and the party is rather keen to whip it's parlamentary delegation in favor of cruiser's construction. Perhaps by providing some incentives we can convince the party to at least leave it up to a free vote?
+
+- @pay: let's use our resources to convince them it's a good idea
+- @pray: we can only pray enough deputies vote in favor
+
+  @pay
+
+  @pray
