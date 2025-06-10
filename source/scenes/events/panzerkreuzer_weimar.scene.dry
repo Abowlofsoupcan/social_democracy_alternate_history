@@ -9,16 +9,20 @@ new-page: true
 
 = Panzerkreuzer
 
-The Reichswehr Ministry is demanding the construction of a new battlecruiser, as part of Germany's rearmament. However, the fact that parties sceptical of remilitarization achieved a majority in the last election has emboldened the pacifist voices in both DDP and us, thus leading to DDP continuing their opposition to the cruiser's construction as well as a push from our grassroots party members to oppose the demands.
-
-Unfortunately, to reject the cruiser we would need at least some of Center Party's deputies, and the party is rather keen to whip it's parlamentary delegation in favor of cruiser's construction. Perhaps by providing some incentives we can convince the party to at least leave it up to a free vote?
-
+The Reichswehr Ministry is demanding the construction of a new battlecruiser, as part of Germany's rearmament. However, the fact that parties sceptical of remilitarization achieved a majority in the last election has emboldened the pacifist voices in both DDP and us, thus leading to DDP continuing their opposition to the cruiser's construction, and a greater push from our grassroots party members to oppose the demands.
+Unfortunately, (the Center Party seems to desire a vote on the cruiser, hoping to pass it thanks to the votes of the opposition). Perhaps by providing some incentives we can convince the party abandon these plans?
+Can we keep our campaign promises and put children's meals before battle cruisers?
 - @pay: let's use our resources to convince them it's a good idea
 - @pray: we can only pray enough deputies vote in favor
 
 @pay
+subtitle: -2 resources
+unavailable-subtitle: Not enough resources (need 2).
+choose-if: resources >= 2
+on-arrival: resources -= 2; pacifism += 2; nationalism -= 5*(1-dissent); workers_spd += 5*(1-dissent)
 
-Text 1
+we have provided a financial incentive for the Center Party to refrain from putting the cruiser up to a vote, and so they agreed to it. this has angered president Hindenburg, even though he knew we campaigned against the cruiser. The ship will not be built!
+
 
 @pray
 
