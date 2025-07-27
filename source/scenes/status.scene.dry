@@ -196,4 +196,4 @@ Support for the Republic: [+ pro_republic_disp +]%
 
 = Labour
 
-Working conditions: bad
+Working conditions:  [? if workers_safety = 0 : Dangerous ?][? if workers_safety = 1 : Safe ?]
