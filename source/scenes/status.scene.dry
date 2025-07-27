@@ -196,4 +196,4 @@ Support for the Republic: [+ pro_republic_disp +]%
 
 = Labour
 
-Working conditions: [? if 1 == 0 : Ass]
+Working conditions: bad
