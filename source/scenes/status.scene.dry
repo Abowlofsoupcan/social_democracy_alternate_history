@@ -196,6 +196,6 @@ Support for the Republic: [+ pro_republic_disp +]%
 
 = Labour
 
-Working conditions: ass
+Working conditions: [? if 1 == 0 : Ass]
 
 Working hours: 80 billion
