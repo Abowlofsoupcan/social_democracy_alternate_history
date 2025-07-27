@@ -197,3 +197,5 @@ Support for the Republic: [+ pro_republic_disp +]%
 = Labour
 
 Working conditions:  [? if workers_safety = 0 : Dangerous ?][? if workers_safety = 1 : Safe ?]
+
+Working Hours: [? if working_hours = 0 : Unlimited ?][? if working_hours = 1 : 80 Hour Weeks ?]
