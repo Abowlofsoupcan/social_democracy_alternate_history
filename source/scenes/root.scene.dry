@@ -439,7 +439,6 @@ Q.eu_progress = 0;
 Q.science = 0;
 Q.education_science = 0;
 
-
 // Tax rates relative to 1928 baseline
 Q.lower_tax_rates = 0;
 Q.upper_tax_rates = 0;
