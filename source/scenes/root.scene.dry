@@ -438,9 +438,7 @@ Q.eu_progress = 0;
 // science/education
 Q.science = 0;
 Q.education_science = 0;
-//labor stuff (WIP)
-Q.working_hours = 0;
-Q.workers_safety = 0; 
+
 
 // Tax rates relative to 1928 baseline
 Q.lower_tax_rates = 0;
