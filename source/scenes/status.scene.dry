@@ -199,3 +199,10 @@ Support for the Republic: [+ pro_republic_disp +]%
 Working conditions:  [? if workers_safety = 0 : Varied ?][? if workers_safety = 1 : Improving ?][? if workers_safety = 2 : Good ?][? if workers_safety >= 3 : Safe ?]
 
 Working Hours: [? if working_hours = 0 : De-facto undefined ?][? if working_hours = 1 : "40-hour" work week ?][? if working_hours = 2 : 40 hours ?][? if working_hours >= 3 : Less that 40 hours ?]
+
+= Democratization of the state
+
+Judiciary:  [? if  judicial_reform = 0 : Reactionary ?][? if judicial_reform = 1 : Conservative ?][? if judicial_reform = 2 : Biased ?][? if judicial_reform = 3 : Improving ?][? if judicial_reform >= 4 : Reformed ?]
+
+
+
